@@ -1,0 +1,6 @@
+[submodule "cloudx/prometheus_exporter"]
+	path = cloudx/prometheus_exporter
+	url = https://github.com/cloudx-group/prometheus_exporter.git
+[submodule "cloudx/HA_configurator"]
+	path = cloudx/HA_configurator
+	url = https://github.com/cloudx-group/HA_configurator.git
